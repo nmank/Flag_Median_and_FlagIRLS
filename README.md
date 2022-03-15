@@ -1,6 +1,6 @@
 # The Flag Median and FlagIRLS
 
-The python code to reproduce results for the CVPR 2022 paperr by Nathan Mankovich et. al.
+The python code to reproduce results for the CVPR 2022 paper by Nathan Mankovich et. al.
 
 ## Description
 
